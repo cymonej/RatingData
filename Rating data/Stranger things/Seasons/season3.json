@@ -1,0 +1,54 @@
+{
+    "name": "Stranger Things",
+    "seasons": [
+      {
+        "seasonNumber": 3,
+        "averageRating": 8.5,
+        "year": 2019,
+        "numberOfEpisodes": 8,
+        "episodes": [
+        {
+          "episodeNumber": 1,
+          "title": "Suzie, Do You Copy?",
+          "rating": 7.8
+        },
+        {
+          "episodeNumber": 2,
+          "title": "The Mall Rats",
+          "rating": 7.9
+        },
+        {
+          "episodeNumber": 3,
+          "title": "The Case of the Missing Lifeguard",
+          "rating": 8.3
+        },
+        {
+          "episodeNumber": 4,
+          "title": "The Sauna Test",
+          "rating": 8.8
+        },
+        {
+          "episodeNumber": 5,
+          "title": "The Flayed",
+          "rating": 8.5
+        },
+        {
+          "episodeNumber": 6,
+          "title": "E Pluribus Unum",
+          "rating": 8.5
+        },
+        {
+          "episodeNumber": 7,
+          "title": "The Bite",
+          "rating": 8.7
+        },
+        {
+          "episodeNumber": 8,
+          "title": "The Battle of Starcourt",
+          "rating": 9.2
+        }
+      ]
+      }
+    ]
+  }
+  

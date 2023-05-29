@@ -1,0 +1,59 @@
+{
+    "name": "Stranger Things",
+    "seasons": [
+      {
+        "seasonNumber": 4,
+        "averageRating": 8.6,
+        "year": 2022,
+        "numberOfEpisodes": 9,
+        "episodes": [
+        {
+          "episodeNumber": 1,
+          "title": "The Hellfire Club",
+          "rating": 8.1
+        },
+        {
+          "episodeNumber": 2,
+          "title": "Vecna's Curse",
+          "rating": 8.1
+        },
+        {
+          "episodeNumber": 3,
+          "title": "The Monster and the Superhero",
+          "rating": 8.3
+        },
+        {
+          "episodeNumber": 4,
+          "title": "Dear Billy",
+          "rating": 9.4
+        },
+        {
+          "episodeNumber": 5,
+          "title": "The Nina Project",
+          "rating": 8.1
+        },
+        {
+          "episodeNumber": 6,
+          "title": "The Dive",
+          "rating": 8.5
+        },
+        {
+          "episodeNumber": 7,
+          "title": "The Massacre at Hawkins Lab",
+          "rating": 9.6
+        },
+        {
+          "episodeNumber": 8,
+          "title": "Papa",
+          "rating": 8.6
+        },
+        {
+          "episodeNumber": 9,
+          "title": "The Piggyback",
+          "rating": 9.0
+        }
+      ]
+      }
+    ]
+  }
+  

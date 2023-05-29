@@ -1,0 +1,59 @@
+{
+    "name": "Stranger Things",
+    "seasons": [
+      {
+        "seasonNumber": 2,
+        "averageRating": 8.4,
+        "year": 2017,
+        "numberOfEpisodes": 9,
+        "episodes": [
+        {
+          "episodeNumber": 1,
+          "title": "MADMAX",
+          "rating": 8.1
+        },
+        {
+          "episodeNumber": 2,
+          "title": "Trick or Treat, Freak",
+          "rating": 8.3
+        },
+        {
+          "episodeNumber": 3,
+          "title": "The Pollywog",
+          "rating": 8.5
+        },
+        {
+          "episodeNumber": 4,
+          "title": "Will the Wise",
+          "rating": 8.5
+        },
+        {
+          "episodeNumber": 5,
+          "title": "Dig Dug",
+          "rating": 8.8
+        },
+        {
+          "episodeNumber": 6,
+          "title": "The Spy",
+          "rating": 9.1
+        },
+        {
+          "episodeNumber": 7,
+          "title": "The Lost Sister",
+          "rating": 6.1
+        },
+        {
+          "episodeNumber": 8,
+          "title": "The Mind Flayer",
+          "rating": 9.2
+        },
+        {
+          "episodeNumber": 9,
+          "title": "The Gate",
+          "rating": 9.3
+        }
+       ]
+      }
+    ]
+  }
+  

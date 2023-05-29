@@ -1,0 +1,43 @@
+{
+    "name": "Loki",
+    "seasons": [
+      {
+        "seasonNumber": 1,
+        "averageRating": 8.6,
+        "numberOfEpisodes": 6,
+        "episodes": [
+          {
+            "episodeNumber": 1,
+            "title": "Glorious Purpose",
+            "rating": 8.6
+          },
+          {
+            "episodeNumber": 2,
+            "title": "The Variant",
+            "rating": 6.7
+          },
+          {
+            "episodeNumber": 3,
+            "title": "Lamentis",
+            "rating": 7.7
+          },
+          {
+            "episodeNumber": 4,
+            "title": "The Nexus Event",
+            "rating": 9.0
+          },
+          {
+            "episodeNumber": 5,
+            "title": "Journey Into Mystery",
+            "rating": 8.9
+          },
+          {
+            "episodeNumber": 6,
+            "title": "For All Time. Always.",
+            "rating": 8.6
+          }
+        ]
+      }
+    ]
+  }
+  

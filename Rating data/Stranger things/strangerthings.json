@@ -1,0 +1,207 @@
+{
+  "name": "Stranger Things",
+  "seasons": [
+    {
+      "seasonNumber": 1,
+      "averageRating": 8.8,
+      "year": 2016,
+      "numberOfEpisodes": 8,
+      "episodes": [
+        {
+          "episodeNumber": 1,
+          "title": "The Vanishing of Will Byers",
+          "rating": 8.6
+        },
+        {
+          "episodeNumber": 2,
+          "title": "The Weirdo on Maple Street",
+          "rating": 8.4
+        },
+        {
+          "episodeNumber": 3,
+          "title": "Holly, Jolly",
+          "rating": 8.8
+        },
+        {
+          "episodeNumber": 4,
+          "title": "The Body",
+          "rating": 8.9
+        },
+        {
+          "episodeNumber": 5,
+          "title": "The Flea and the Acrobat",
+          "rating": 8.6
+        },
+        {
+          "episodeNumber": 6,
+          "title": "The Monster",
+          "rating": 8.8
+        },
+        {
+          "episodeNumber": 7,
+          "title": "The Bathtub",
+          "rating": 9.0
+        },
+        {
+          "episodeNumber": 8,
+          "title": "The Mind Flayer",
+          "rating": 9.2
+        }
+      ]
+    },
+    {
+      "seasonNumber": 2,
+      "averageRating": 8.4,
+      "year": 2017,
+      "numberOfEpisodes": 9,
+      "episodes": [
+        {
+          "episodeNumber": 1,
+          "title": "MADMAX",
+          "rating": 8.1
+        },
+        {
+          "episodeNumber": 2,
+          "title": "Trick or Treat, Freak",
+          "rating": 8.3
+        },
+        {
+          "episodeNumber": 3,
+          "title": "The Pollywog",
+          "rating": 8.5
+        },
+        {
+          "episodeNumber": 4,
+          "title": "Will the Wise",
+          "rating": 8.5
+        },
+        {
+          "episodeNumber": 5,
+          "title": "Dig Dug",
+          "rating": 8.8
+        },
+        {
+          "episodeNumber": 6,
+          "title": "The Spy",
+          "rating": 9.1
+        },
+        {
+          "episodeNumber": 7,
+          "title": "The Lost Sister",
+          "rating": 6.1
+        },
+        {
+          "episodeNumber": 8,
+          "title": "The Mind Flayer",
+          "rating": 9.2
+        },
+        {
+          "episodeNumber": 9,
+          "title": "The Gate",
+          "rating": 9.3
+        }
+      ]
+    },
+    {
+      "seasonNumber": 3,
+      "averageRating": 8.5,
+      "year": 2019,
+      "numberOfEpisodes": 8,
+      "episodes": [
+        {
+          "episodeNumber": 1,
+          "title": "Suzie, Do You Copy?",
+          "rating": 7.8
+        },
+        {
+          "episodeNumber": 2,
+          "title": "The Mall Rats",
+          "rating": 7.9
+        },
+        {
+          "episodeNumber": 3,
+          "title": "The Case of the Missing Lifeguard",
+          "rating": 8.3
+        },
+        {
+          "episodeNumber": 4,
+          "title": "The Sauna Test",
+          "rating": 8.8
+        },
+        {
+          "episodeNumber": 5,
+          "title": "The Flayed",
+          "rating": 8.5
+        },
+        {
+          "episodeNumber": 6,
+          "title": "E Pluribus Unum",
+          "rating": 8.5
+        },
+        {
+          "episodeNumber": 7,
+          "title": "The Bite",
+          "rating": 8.7
+        },
+        {
+          "episodeNumber": 8,
+          "title": "The Battle of Starcourt",
+          "rating": 9.2
+        }
+      ]
+    },
+    {
+      "seasonNumber": 4,
+      "averageRating": 8.6,
+      "year": 2022,
+      "numberOfEpisodes": 9,
+      "episodes": [
+        {
+          "episodeNumber": 1,
+          "title": "The Hellfire Club",
+          "rating": 8.1
+        },
+        {
+          "episodeNumber": 2,
+          "title": "Vecna's Curse",
+          "rating": 8.1
+        },
+        {
+          "episodeNumber": 3,
+          "title": "The Monster and the Superhero",
+          "rating": 8.3
+        },
+        {
+          "episodeNumber": 4,
+          "title": "Dear Billy",
+          "rating": 9.4
+        },
+        {
+          "episodeNumber": 5,
+          "title": "The Nina Project",
+          "rating": 8.1
+        },
+        {
+          "episodeNumber": 6,
+          "title": "The Dive",
+          "rating": 8.5
+        },
+        {
+          "episodeNumber": 7,
+          "title": "The Massacre at Hawkins Lab",
+          "rating": 9.6
+        },
+        {
+          "episodeNumber": 8,
+          "title": "Papa",
+          "rating": 8.6
+        },
+        {
+          "episodeNumber": 9,
+          "title": "The Piggyback",
+          "rating": 9.0
+        }
+      ]
+    }
+  ]
+}

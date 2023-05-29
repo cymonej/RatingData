@@ -1,0 +1,54 @@
+{
+    "name": "Stranger Things",
+    "seasons": [
+      {
+        "seasonNumber": 1,
+        "averageRating": 8.8,
+        "year": 2016,
+        "numberOfEpisodes": 8,
+        "episodes": [
+          {
+            "episodeNumber": 1,
+            "title": "The Vanishing of Will Byers",
+            "rating": 8.6
+          },
+          {
+            "episodeNumber": 2,
+            "title": "The Weirdo on Maple Street",
+            "rating": 8.4
+          },
+          {
+            "episodeNumber": 3,
+            "title": "Holly, Jolly",
+            "rating": 8.8
+          },
+          {
+            "episodeNumber": 4,
+            "title": "The Body",
+            "rating": 8.9
+          },
+          {
+            "episodeNumber": 5,
+            "title": "The Flea and the Acrobat",
+            "rating": 8.6
+          },
+          {
+            "episodeNumber": 6,
+            "title": "The Monster",
+            "rating": 8.8
+          },
+          {
+            "episodeNumber": 7,
+            "title": "The Bathtub",
+            "rating": 9.0
+          },
+          {
+            "episodeNumber": 8,
+            "title": "The Mind Flayer",
+            "rating": 9.2
+          }
+        ]
+      }
+    ]
+  }
+  

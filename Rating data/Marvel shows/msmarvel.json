@@ -1,0 +1,43 @@
+{
+    "name": "Ms Marvel",
+    "seasons": [
+      {
+        "seasonNumber": 1,
+        "averageRating": 6.9,
+        "numberOfEpisodes": 6,
+        "episodes": [
+          {
+            "episodeNumber": 1,
+            "title": "Generation Why",
+            "rating": 7.2
+          },
+          {
+            "episodeNumber": 2,
+            "title": "Crushed",
+            "rating": 7.0
+          },
+          {
+            "episodeNumber": 3,
+            "title": "Destined",
+            "rating": 7.0
+          },
+          {
+            "episodeNumber": 4,
+            "title": "Seeing Red",
+            "rating": 6.7
+          },
+          {
+            "episodeNumber": 5,
+            "title": "Time and Again",
+            "rating": 6.5
+          },
+          {
+            "episodeNumber": 6,
+            "title": "No Normal",
+            "rating": 7.1
+          }
+        ]
+      }
+    ]
+  }
+  

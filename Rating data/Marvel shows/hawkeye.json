@@ -1,0 +1,43 @@
+{
+    "name": "Hawkeye",
+    "seasons": [
+      {
+        "seasonNumber": 1,
+        "averageRating": 8.0,
+        "numberOfEpisodes": 6,
+        "episodes": [
+          {
+            "episodeNumber": 1,
+            "title": "Never Meet Your Heroes",
+            "rating": 7.5
+          },
+          {
+            "episodeNumber": 2,
+            "title": "Hide and Seek",
+            "rating": 7.6
+          },
+          {
+            "episodeNumber": 3,
+            "title": "Echoes",
+            "rating": 8.2
+          },
+          {
+            "episodeNumber": 4,
+            "title": "Partners, Am I Right?",
+            "rating": 8.0
+          },
+          {
+            "episodeNumber": 5,
+            "title": "Ronin",
+            "rating": 8.5
+          },
+          {
+            "episodeNumber": 6,
+            "title": "So This Is Christmas?",
+            "rating": 8.0
+          }
+        ]
+      }
+    ]
+  }
+  
